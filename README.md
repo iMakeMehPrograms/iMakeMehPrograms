@@ -6,9 +6,8 @@
 
 # Current
 
-- Making TextAdventure2 in C++, a second game to the original TextAdventure in Java (and I thought I was being original naming it that...)
-- (Thinking about) making a 2d game engine
-- Upgrading my file animtation library (TANIM) 
+- Working on a 3D/2D, library/framework, game engine/demo maker.
+- Eyeing the progress of new C++ asynchronous ops
 
 
 <!---
