@@ -6,7 +6,7 @@
 
 # Current
 
-- Working on a 3D/2D, library/framework, game engine/demo maker.
+- Working on a 3D/2D, library, game engine/demo maker.
 - Eyeing the progress of new C++ asynchronous ops
 
 
