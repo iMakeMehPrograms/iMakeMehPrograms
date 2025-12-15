@@ -1,13 +1,10 @@
 # About
-
-- I am iMakeMehPrograms
-- I do C++ and Unity/C# programming
-- I also occasionally do other languages for fun (R, Python, etc...)
+- C/C++
+- Interested in rendering, audio systems, and parrellel computation
 
 # Current
-
-- Working on a 3D/2D, library, game engine/demo maker.
-- Eyeing the progress of new C++ asynchronous ops
+- Eyeing BLAS ops in C++26
+- Working on a few projects
 
 
 <!---
